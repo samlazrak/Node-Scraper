@@ -2,6 +2,7 @@
   "name": "lazrakwebscraper",
   "version": "1.0.1",
   "description": "",
+  "tags": "scraper, test",
   "main": "index.js",
   "scripts": {
     "scrape": "node scrape"
