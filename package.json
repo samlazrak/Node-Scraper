@@ -1,6 +1,6 @@
 {
   "name": "lazrakwebscraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "tags": "scraper, test",
   "main": "index.js",
